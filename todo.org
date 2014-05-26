@@ -1,0 +1,5 @@
+#+TITLE: To Do
+
+* CD DB
+- Get rid of newline before "Ripped [y/n]"
+- Add colon after "Ripped [y/n]"
