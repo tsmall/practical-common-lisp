@@ -1,0 +1,4 @@
+* Practical Common Lisp Exercises
+
+I'm working my way through the book [[http://www.gigamonkeys.com/book/][Practical Common Lisp]] by Peter
+Seibel. This repository contains the examples I've done so far.
